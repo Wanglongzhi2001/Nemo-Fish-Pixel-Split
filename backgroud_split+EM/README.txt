@@ -1,0 +1,4 @@
+split_fish.py文件用来分割小鱼和背景，EM.py文件为加分题,data文件夹中存放着原始数据。
+两个py文件都已封装好，直接运行即可，先运行split_fish.py，再运行EM.py！！！
+五个EM_result文件夹存放着EM算法题的结果，运行EM.py可以直接得到结果放在EM_result文件夹中，若没有的话程序会自动创建文件夹进行存放。
+split_result文件夹存放着分割小鱼背景的结果，运行split_fish.py可以直接得到结果放在split_fish文件夹中，若没有的话程序会自动创建文件夹进行存放。
